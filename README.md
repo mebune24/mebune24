@@ -49,16 +49,23 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=mebune24&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&no-frame=true&row=2&column=3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://streak-stats.demolab.com?user=mebune24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img width="700" src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Contribution Activity
