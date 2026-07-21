@@ -119,7 +119,7 @@
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mebune24/CodeWithMebune" target="_blank">
+        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
           <img src="https://opengraph.githubassets.com/1/mebune24/CodeWithMebune" width="95%" alt="Featured Repo 1"/>
         </a>
         <br>
