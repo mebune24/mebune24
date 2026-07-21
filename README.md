@@ -51,16 +51,35 @@
 </p>
 ## 📊 GitHub Statistics
 
-<!-- SIMPLE WORKING VERSION - NO COMPLEX FORMATTING -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://demolab.com" width="45%"/>
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+        <br><br>
+        <strong>📊 GitHub Stats</strong>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://demolab.com" alt="GitHub Streak"/>
+        <br><br>
+        <strong>🔥 GitHub Streak</strong>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+        <br><br>
+        <strong>💻 Top Languages</strong>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://vercel.app" alt="GitHub Trophies"/>
+        <br><br>
+        <strong>🏆GitHub Trophies</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical" width="45%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&column=4" width="45%"/>
-</p>
 
 
 ### 📈 Contribution Activity
