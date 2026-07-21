@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yt3.ggpht.com/vfvCWRXqIb0cPJrRK75HD46KvtJQT36FBYxBN5nEFcK9-cyRy7GlBBD5rVhZRfRHKP9CJdIE=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="35%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwYt2tqyM1bkCABSBvWR7FoeVnjCCBhOomTyp_18lKyw&s=10" width="35%"/>
 </p>
 
 <p align="center">
