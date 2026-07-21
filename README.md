@@ -119,18 +119,18 @@
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
-          <img src="https://opengraph.githubassets.com/1/mebune24/CodeWithMebune" width="95%" alt="Featured Repo 1"/>
+        <a href="https://github.com/mebune24/SpaceRentals-home-rentals-plateform" target="_blank">
+          <img src="https://opengraph.githubassets.com/1/mebune24/SpaceRentals-home-rentals-plateform" width="95%" alt="Featured Repo 1"/>
         </a>
         <br>
-        <strong>View All Repositories</strong>
+        <strong>SpaceRentals — Rental Platform</strong>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mebune24/E-commerce-product-page" target="_blank">
           <img src="https://opengraph.githubassets.com/1/mebune24/E-commerce-product-page" width="95%" alt="Featured Repo 2"/>
         </a>
         <br>
-        <strong>View All Repositories</strong>
+        <strong>E-Commerce Product Page</strong>
       </td>
     </tr>
   </table>
