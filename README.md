@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/250997909?v=4" width="35%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9DrM0jVlN6gzZSJ-rebptbdGOVRQfmJYzJBGDrVDuA&s=10" width="35%"/>
 </p>
 
 <p align="center">
