@@ -49,37 +49,19 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true" width="100%" alt="GitHub Stats"/>
-        <br>
-        <strong>📊 GitHub Stats</strong>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true" width="100%" alt="GitHub Streak"/>
-        <br>
-        <strong>🔥 GitHub Streak</strong>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true" width="100%" alt="Top Languages"/>
-        <br>
-        <strong>💻 Top Languages</strong>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&no-frame=true&column=4" width="100%" alt="GitHub Trophies"/>
-        <br>
-        <strong>🏆GitHub Trophies</strong>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- SIMPLE WORKING VERSION - NO COMPLEX FORMATTING -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical" width="45%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&column=4" width="45%"/>
+</p>
+
 
 ### 📈 Contribution Activity
 
