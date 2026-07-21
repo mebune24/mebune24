@@ -49,24 +49,59 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-## 📊 GitHub Analytics
+## 📊 Deep-Dive Engineering Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <!-- Primary Core Statistics Engine -->
+      <td width="50%" valign="top" align="center">
+        <img src="https://vercel.app" width="95%" alt="Core Engineering Stats" />
+        <br>
+        <code>📈 core_performance_metrics.json</code>
+      </td>
+      <!-- Multi-Language Compilers & Stack Analytics -->
+      <td width="50%" valign="top" align="center">
+        <img src="https://vercel.app" width="95%" alt="Language Production Matrix" />
+        <br>
+        <code>💻 compilation_distribution.sys</code>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=mebune24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<br>
 
-<p align="center">
-  <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+### 📈 Development Velocity & Milestones
 
-<p align="center">
-  <img width="700" src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <!-- Version Control Consistency Metrics -->
+      <td width="65%" valign="middle" align="center">
+        <img src="https://demolab.com" width="100%" alt="Commit Streak Timeline" />
+        <br>
+        <code>🔥 runtime_consistency_stream</code>
+      </td>
+      <!-- Gamified Milestone Verification Engine -->
+      <td width="35%" valign="middle" align="center">
+        <img src="https://vercel.app" width="100%" alt="Verified Milestones" />
+        <br>
+        <code>🏆 earned_capabilities.log</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+### ⚡ 3D Interactive Code Contribution Grid
+
+<div align="center">
+  <img src="https://vercel.app" width="100%" alt="Telemetry Volume Graph" />
+  <br>
+  <code>📡 system_throughput_telemetry.io</code>
+</div>
 
 ### 📈 Contribution Activity
 
