@@ -58,7 +58,7 @@
       <!-- Primary Core Statistics Engine -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+          src="https://github-readme-stats-mebune24.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
           width="95%"
           alt="Core Engineering Stats"
         />
@@ -68,7 +68,7 @@
       <!-- Multi-Language Compilers & Stack Analytics -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats-mebune24.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Language Production Matrix"
         />
@@ -77,10 +77,10 @@
       </td>
     </tr>
     <tr>
-      <!-- Contribution Streak (was: bare "https://demolab.com" homepage, not an image) -->
+      <!-- Contribution Streak (self-hosted: public demolab.com instance rate-limits) -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://streak-stats.demolab.com/?user=mebune24&theme=tokyonight&hide_border=true"
+          src="https://github-readme-streak-stats-mebune24.vercel.app/?user=mebune24&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Development Streak"
         />
