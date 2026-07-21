@@ -50,29 +50,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-### 📈 Development Velocity & Milestones
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <!-- Version Control Consistency Metrics -->
-      <td width="65%" valign="middle" align="center">
-        <img src="https://demolab.com" width="100%" alt="Commit Streak Timeline" />
-        <br>
-        <code>🔥 runtime_consistency_stream</code>
-      </td>
-      <!-- Gamified Milestone Verification Engine -->
-      <td width="35%" valign="middle" align="center">
-        <img src="https://vercel.app" width="100%" alt="Verified Milestones" />
-        <br>
-        <code>🏆 earned_capabilities.log</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-  ## 📊 Deep-Dive Engineering Analytics
+## 📊 Deep-Dive Engineering Analytics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -99,7 +77,7 @@
       </td>
     </tr>
     <tr>
-      <!-- Contribution Streak (fixed: herokuapp.com is dead, migrated to demolab.com fork) -->
+      <!-- Contribution Streak (was: bare "https://demolab.com" homepage, not an image) -->
       <td width="50%" valign="top" align="center">
         <img
           src="https://streak-stats.demolab.com/?user=mebune24&theme=tokyonight&hide_border=true"
@@ -109,7 +87,7 @@
         <br>
         <code>🔥 deployment_uptime.log</code>
       </td>
-      <!-- Achievement Matrix -->
+      <!-- Achievement Matrix (was: bare "https://vercel.app" homepage, not an image) -->
       <td width="50%" valign="top" align="center">
         <img
           src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3"
@@ -122,20 +100,17 @@
     </tr>
   </table>
 </div>
+
 <br>
+
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=tokyo-night&hide_border=true&bg_color=0D1117"
     width="98%"
     alt="Engineering Activity Graph"
   />
   <br>
   <code>📡 distributed_commit_network.graph</code>
-</div>
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
 </div>
 
 ## Featured Repositories
@@ -145,14 +120,14 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/mebune24/CodeWithMebune" target="_blank">
-          <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz-VERU3ksBxgjp5LxTJ_hN9E8nJxmFBpLIDtceVIJNVNaVz_C" width="95%" alt="Featured Repo 1"/>
+          <img src="https://opengraph.githubassets.com/1/mebune24/CodeWithMebune" width="95%" alt="Featured Repo 1"/>
         </a>
         <br>
-        <strong> View All Repositories</strong>
+        <strong>View All Repositories</strong>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mebune24/E-commerce-product-page" target="_blank">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucrYJ8O1uxvj4wSrkr4bDmxU-BFy5uOtNU_gD5t_qpSm2qwIT&s" width="95%" alt="Featured Repo 2"/>
+          <img src="https://opengraph.githubassets.com/1/mebune24/E-commerce-product-page" width="95%" alt="Featured Repo 2"/>
         </a>
         <br>
         <strong>View All Repositories</strong>
@@ -169,4 +144,3 @@
 </div>
 
 <br>
-
