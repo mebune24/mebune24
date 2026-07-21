@@ -59,29 +59,27 @@
         <br><br>
         <strong>📊 GitHub Stats</strong>
       </td>
-
       <td width="50%" align="center" valign="top">
         <img src="https://streak-stats.demolab.com?user=mebune24&theme=radical&hide_border=true" alt="GitHub Streak"/>
         <br><br>
         <strong>🔥 GitHub Streak</strong>
       </td>
     </tr>
-
     <tr>
       <td width="50%" align="center" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
         <br><br>
         <strong>💻 Top Languages</strong>
       </td>
-
       <td width="50%" align="center" valign="top">
-        <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies"/>
+        <img src="https://vercel.app" alt="GitHub Trophies"/>
         <br><br>
         <strong>🏆 GitHub Trophies</strong>
       </td>
     </tr>
   </table>
 </div>
+
 
 ### 📈 Contribution Activity
 
