@@ -1,53 +1,53 @@
 <p align="center">
-  <img src="https://vercel.app" width="100%"/>
+  <img src="https://vercel.com/api/platform/og?title=Vercel&subtitle=Deployment" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Digital+Craftsman+%26+Educator;Full-Stack+Developer;Content+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <strong>Digital Craftsman & Educator</strong><br><br>
-  I am a software engineer and content creator dedicated to building clean, scalable applications and sharing engineering insights along the way. When I'm not architecting full-stack systems, I'm producing high-quality educational content to help developers master modern workflows and build the future of tech through <a href="https://youtube.com">CodeWithMebune on YouTube</a>.
+  I am a software engineer and content creator dedicated to building clean, scalable applications and sharing engineering insights along the way. When I'm not architecting full-stack systems, I'm producing high-quality educational content to help developers master modern workflows and build the future of tech through <a href="https://youtube.com/@codewithmebune" target="_blank">CodeWithMebune on YouTube</a>.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mebune24"><img src="https://shields.io" alt="GitHub" /></a>
-  <a href="https://youtube.com"><img src="https://shields.io" alt="YouTube" /></a>
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="https://wa.me"><img src="https://shields.io" alt="WhatsApp" /></a>
-  <a href="https://x.com"><img src="https://shields.io" alt="Twitter/X" /></a>
+  <a href="https://github.com/mebune24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://youtube.com/@codewithmebune" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://linkedin.com/in/mebune24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://wa.me/1234567890" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://x.com/mebune24" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /></a>
 </p>
 
 ## 🚀 Tech Stack
 
 ### Frontend Development
 <p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Express.js" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="PostgreSQL" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="Redis" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
 ### DevOps & Tools
 <p align="left">
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub Actions" />
-  <img src="https://shields.io" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
 ## 📊 Advanced GitHub Metrics
@@ -56,18 +56,18 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://vercel.app" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true" width="100%"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://demolab.com" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true" width="100%"/>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <img src="https://vercel.app" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true" width="100%"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://vercel.app" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebune24&theme=radical" width="100%"/>
       </td>
     </tr>
   </table>
@@ -76,7 +76,7 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://vercel.app" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=radical&hide_border=true" width="100%"/>
 </div>
 
 ## 🗂️ Featured Repositories
@@ -84,10 +84,10 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="5">
     <tr>
-      <td><img src="https://vercel.app" /></td>
-      <td><img src="https://vercel.app" /></td>
+      <td><a href="https://github.com/mebune24/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=project1&theme=radical" /></a></td>
+      <td><a href="https://github.com/mebune24/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=project2&theme=radical" /></a></td>
     </tr>
   </table>
 </div>
 
-<img src="https://vercel.app" width="100%"/>
+<img src="https://raw.githubusercontent.com/mebune24/mebune24/output/snake.svg" width="100%"/>
