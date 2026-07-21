@@ -54,7 +54,7 @@
 <!-- SIMPLE WORKING VERSION - NO COMPLEX FORMATTING -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical" width="45%"/>
+  <img src="https://demolab.com" width="45%"/>
 </p>
 
 <p align="center">
