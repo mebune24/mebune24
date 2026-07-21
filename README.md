@@ -8,12 +8,12 @@
 
 <p align="center">
   <strong>Digital Craftsman & Educator</strong><br><br>
-  I am a software engineer and content creator dedicated to building clean, scalable applications and sharing engineering insights along the way. When I'm not architecting full-stack systems, I'm producing high-quality educational content to help developers master modern workflows and build the future of tech through <a href="https://www.youtube.com/@codewithmebune" target="_blank">CodeWithMebune on YouTube</a>.
+  I am a software engineer and content creator dedicated to building clean, scalable applications and sharing engineering insights along the way. When I'm not architecting full-stack systems, I'm producing high-quality educational content to help developers master modern workflows and build the future of tech through <a href="https://www.youtube.com/@mebune24" target="_blank">CodeWithMebune on YouTube</a>.
 </p>
 
 <p align="center">
   <a href="https://github.com/mebune24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@codewithmebune" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@mebune24" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/mebune24" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://wa.me/2341234567890" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://x.com/mebune24" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
@@ -84,8 +84,8 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="5">
     <tr>
-      <td><a href="https://github.com/mebune24/awesome-project" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=awesome-project&theme=radical" /></a></td>
-      <td><a href="https://github.com/mebune24/dev-tools" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=dev-tools&theme=radical" /></a></td>
+      <td><a href="https://github.com/mebune24?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical" /></a></td>
+      <td><a href="https://github.com/mebune24?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical" /></a></td>
     </tr>
   </table>
 </div>
