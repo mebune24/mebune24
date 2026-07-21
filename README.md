@@ -59,15 +59,15 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak"/>
+        <img src="https://demolab.com" width="100%" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages"/>
+        <img src="https://vercel.app" width="100%" alt="Top Languages"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebune24&theme=radical" width="100%" alt="Repos per Language"/>
+        <img src="https://vercel.app" width="100%" alt="GitHub Trophies"/>
       </td>
     </tr>
   </table>
@@ -79,7 +79,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
 </div>
 
-## 🗂️ Featured Repositories
+## Featured Repositories
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -89,14 +89,14 @@
           <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz-VERU3ksBxgjp5LxTJ_hN9E8nJxmFBpLIDtceVIJNVNaVz_C" width="95%" alt="Featured Repo 1"/>
         </a>
         <br>
-        <strong>📁 View All Repositories</strong>
+        <strong> View All Repositories</strong>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/mebune24/E-commerce-product-page" target="_blank">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucrYJ8O1uxvj4wSrkr4bDmxU-BFy5uOtNU_gD5t_qpSm2qwIT&s" width="95%" alt="Featured Repo 2"/>
         </a>
         <br>
-        <strong>📁 View All Repositories</strong>
+        <strong>View All Repositories</strong>
       </td>
     </tr>
   </table>
@@ -111,4 +111,3 @@
 
 <br>
 
-<img src="https://dicebear.com" width="100%" alt=" Animation"/>
