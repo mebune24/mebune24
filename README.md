@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://vercel.com/api/platform/og?title=Mebune&subtitle=GitHub%20Profile" width="100%"/>
+  <img src="https://yt3.ggpht.com/vfvCWRXqIb0cPJrRK75HD46KvtJQT36FBYxBN5nEFcK9-cyRy7GlBBD5rVhZRfRHKP9CJdIE=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="100%"/>
 </p>
 
 <p align="center">
@@ -85,15 +85,15 @@
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="95%" alt="Featured Repo 1"/>
+        <a href="https://github.com/mebune24/CodeWithMebune" target="_blank">
+          <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz-VERU3ksBxgjp5LxTJ_hN9E8nJxmFBpLIDtceVIJNVNaVz_C" width="95%" alt="Featured Repo 1"/>
         </a>
         <br>
         <strong>📁 View All Repositories</strong>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="95%" alt="Featured Repo 2"/>
+        <a href="https://github.com/mebune24/E-commerce-product-page" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQucrYJ8O1uxvj4wSrkr4bDmxU-BFy5uOtNU_gD5t_qpSm2qwIT&s" width="95%" alt="Featured Repo 2"/>
         </a>
         <br>
         <strong>📁 View All Repositories</strong>
@@ -105,10 +105,10 @@
 <div align="center">
   <br>
   <a href="https://github.com/mebune24?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
   </a>
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/mebune24/mebune24/output/snake.svg" width="100%" alt="Snake Animation"/>
+<img src="https://dicebear.com" width="100%" alt=" Animation"/>
