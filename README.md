@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9DrM0jVlN6gzZSJ-rebptbdGOVRQfmJYzJBGDrVDuA&s=10" width="35%"/>
+  <img src="https://yt3.ggpht.com/vfvCWRXqIb0cPJrRK75HD46KvtJQT36FBYxBN5nEFcK9-cyRy7GlBBD5rVhZRfRHKP9CJdIE=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="35%"/>
 </p>
 
 <p align="center">
@@ -58,34 +58,33 @@
       <!-- Primary Core Statistics Engine -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-stats-mebune24.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+          src="https://github-readme-stats-mu-sandy-84.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
           width="95%"
           alt="Core Engineering Stats"
         />
         <br>
-        <code>📈 core_performance_metrics.json</code>
       </td>
       <!-- Multi-Language Compilers & Stack Analytics -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-stats-mebune24.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats-mu-sandy-84.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Language Production Matrix"
         />
         <br>
-        <code>💻 compilation_distribution.sys</code>
+      
       </td>
     </tr>
     <tr>
-      <!-- Contribution Streak (self-hosted: public demolab.com instance rate-limits) -->
+      <!-- Contribution Streak (self-hosted) -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-streak-stats-mebune24.vercel.app/?user=mebune24&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats-dles.vercel.app/?user=mebune24&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Development Streak"
         />
         <br>
-        <code>🔥 deployment_uptime.log</code>
+     
       </td>
       <!-- Achievement Matrix (was: bare "https://vercel.app" homepage, not an image) -->
       <td width="50%" valign="top" align="center">
@@ -95,7 +94,7 @@
           alt="Achievement Matrix"
         />
         <br>
-        <code>🏆 achievement_matrix.db</code>
+       
       </td>
     </tr>
   </table>
@@ -110,7 +109,6 @@
     alt="Engineering Activity Graph"
   />
   <br>
-  <code>📡 distributed_commit_network.graph</code>
 </div>
 
 ## Featured Repositories
