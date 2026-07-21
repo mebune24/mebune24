@@ -56,18 +56,18 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebune24&theme=radical" width="100%"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebune24&theme=radical" width="100%" alt="Repos per Language"/>
       </td>
     </tr>
   </table>
@@ -76,18 +76,39 @@
 ### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=radical&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
 </div>
 
 ## 🗂️ Featured Repositories
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="5">
+  <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td><a href="https://github.com/mebune24?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical" /></a></td>
-      <td><a href="https://github.com/mebune24?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical" /></a></td>
+      <td width="50%" align="center">
+        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="95%" alt="Featured Repo 1"/>
+        </a>
+        <br>
+        <strong>📁 View All Repositories</strong>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebune24&repo=mebune24&theme=radical&hide_border=true&bg_color=0D1117" width="95%" alt="Featured Repo 2"/>
+        </a>
+        <br>
+        <strong>📁 View All Repositories</strong>
+      </td>
     </tr>
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/mebune24/mebune24/output/snake.svg" width="100%"/>
+<div align="center">
+  <br>
+  <a href="https://github.com/mebune24?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/🔍_Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+  </a>
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/mebune24/mebune24/output/snake.svg" width="100%" alt="Snake Animation"/>
