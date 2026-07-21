@@ -50,13 +50,14 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
+
 ## 📊 Advanced GitHub Metrics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats"/>
+        <img src="https://vercel.app" width="100%" alt="GitHub Stats"/>
       </td>
       <td width="50%" valign="top">
         <img src="https://demolab.com" width="100%" alt="GitHub Streak"/>
