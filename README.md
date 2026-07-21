@@ -72,7 +72,7 @@
 </div>
 
 <br>
-## 📊 Deep-Dive Engineering Analytics
+  ## 📊 Deep-Dive Engineering Analytics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" width="100%">
@@ -104,7 +104,7 @@
       <!-- Contribution Streak -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://streak-stats.demolab.com?user=mebune24&theme=tokyonight&hide_border=true"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Development Streak"
         />
@@ -115,7 +115,7 @@
       <!-- Achievement Matrix -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=algolia&no-frame=true&no-bg=true&row=2&column=3"
+          src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3"
           width="95%"
           alt="Achievement Matrix"
         />
@@ -137,7 +137,6 @@
   <br>
   <code>📡 distributed_commit_network.graph</code>
 </div>
-
 ### 📈 Contribution Activity
 
 <div align="center">
