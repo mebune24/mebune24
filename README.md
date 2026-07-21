@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://yt3.ggpht.com/vfvCWRXqIb0cPJrRK75HD46KvtJQT36FBYxBN5nEFcK9-cyRy7GlBBD5rVhZRfRHKP9CJdIE=s600-c-k-c0x00ffffff-no-rj-rp-mo" width="35%"/>
+  <img src="https://avatars.githubusercontent.com/u/250997909?v=4" width="35%"/>
 </p>
 
 <p align="center">
