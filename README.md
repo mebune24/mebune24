@@ -50,25 +50,33 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
 
-
 ## 📊 Advanced GitHub Metrics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
+  <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats"/>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/mebune24" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" width="95%" alt="GitHub Stats"/>
+        </a>
+        <br>
+        <strong>📊 GitHub Stats</strong>
       </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak"/>
+      <td width="50%" valign="top" align="center">
+        <a href="https://github.com/mebune24?tab=repositories" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" width="95%" alt="Top Languages"/>
+        </a>
+        <br>
+        <strong>📊 Top Languages</strong>
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages"/>
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&no-frame=true&row=2&column=3" width="100%" alt="GitHub Trophies"/>
+      <td width="50%" valign="top" align="center" colspan="2">
+        <a href="https://github.com/mebune24" target="_blank">
+          <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="95%" alt="GitHub Trophies"/>
+        </a>
+        <br>
+        <strong>🏆 GitHub Trophies</strong>
       </td>
     </tr>
   </table>
