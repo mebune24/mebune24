@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN9DrM0jVlN6gzZSJ-rebptbdGOVRQfmJYzJBGDrVDuA&s=10" width="35%"/>
+  <img src="https://camo.githubusercontent.com/5154918ee73c28bdeab548f7e118597da1fbd4f8882fdee4babe86313c5948ff/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763514e3944724d306a566c4e36677a5a534a2d72656270746264474f565251666d4a597a4a424744725644754126733d3130" width="35%"/>
 </p>
 
 <p align="center">
@@ -63,6 +63,7 @@
           alt="Core Engineering Stats"
         />
         <br>
+        <code>📈 core_performance_metrics.json</code>
       </td>
       <!-- Multi-Language Compilers & Stack Analytics -->
       <td width="50%" valign="top" align="center">
@@ -72,19 +73,19 @@
           alt="Language Production Matrix"
         />
         <br>
-      
+        <code>💻 compilation_distribution.sys</code>
       </td>
     </tr>
     <tr>
       <!-- Contribution Streak (self-hosted) -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-stats-dles.vercel.app/?user=mebune24&theme=tokyonight&hide_border=true"
+          src="https://github-readme-streak-stats-6h6p-79od4khu1.vercel.app/?user=mebune24&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Development Streak"
         />
         <br>
-     
+        <code>🔥 deployment_uptime.log</code>
       </td>
       <!-- Achievement Matrix (was: bare "https://vercel.app" homepage, not an image) -->
       <td width="50%" valign="top" align="center">
@@ -94,7 +95,7 @@
           alt="Achievement Matrix"
         />
         <br>
-       
+        <code>🏆 achievement_matrix.db</code>
       </td>
     </tr>
   </table>
@@ -109,7 +110,46 @@
     alt="Engineering Activity Graph"
   />
   <br>
+  <code>📡 distributed_commit_network.graph</code>
 </div>
+
+## 🎓 Certifications
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td width="33%" align="center">
+        <a href="https://www.credential.net/REPLACE_WITH_CERT_ID_1" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSryhm2GQat3WCLjtocXSDObDaTYHoSnt1a3wLZjOfmVg&s" width="90%" alt="Certification 1"/>
+        </a>
+        <br>
+        <strong>Certified web developer Developer</strong>
+        <br>
+        <sub>Issuing Body · Year</sub>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://www.credential.net/REPLACE_WITH_CERT_ID_" target="_blank">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_SskoNPnx2M8jrbiAmQ4V1gknUJ4UXLAl1slluROdyQ&s=10" width="90%" alt="Certification 2"/>
+        </a>
+        <br>
+        <strong>GCE-AL/OL</strong>
+        <br>
+        <sub>Issuing Body · Year</sub>
+      </td>
+      <td width="33%" align="center">
+        <a href="https://www.credential.net/REPLACE_WITH_CERT_ID_3" target="_blank">
+          <img src="https://imgv2-1-f.scribdassets.com/img/document/875125639/original/175b81a92d/1?v=1" width="90%" alt="Certification 3"/>
+        </a>
+        <br>
+        <strong>HND certification</strong>
+        <br>
+        <sub>Issuing Body · Year</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ## Featured Repositories
 
