@@ -49,28 +49,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
-## 📊 Deep-Dive Engineering Analytics
-
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <!-- Primary Core Statistics Engine -->
-      <td width="50%" valign="top" align="center">
-        <img src="https://vercel.app" width="95%" alt="Core Engineering Stats" />
-        <br>
-        <code>📈 core_performance_metrics.json</code>
-      </td>
-      <!-- Multi-Language Compilers & Stack Analytics -->
-      <td width="50%" valign="top" align="center">
-        <img src="https://vercel.app" width="95%" alt="Language Production Matrix" />
-        <br>
-        <code>💻 compilation_distribution.sys</code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
 
 ### 📈 Development Velocity & Milestones
 
@@ -94,13 +72,70 @@
 </div>
 
 <br>
-
-### ⚡ 3D Interactive Code Contribution Grid
+## 📊 Deep-Dive Engineering Analytics
 
 <div align="center">
-  <img src="https://vercel.app" width="100%" alt="Telemetry Volume Graph" />
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <!-- Primary Core Statistics Engine -->
+      <td width="50%" valign="top" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+          width="95%"
+          alt="Core Engineering Stats"
+        />
+        <br>
+        <code>📈 core_performance_metrics.json</code>
+      </td>
+
+      <!-- Multi-Language Compilers & Stack Analytics -->
+      <td width="50%" valign="top" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+          width="95%"
+          alt="Language Production Matrix"
+        />
+        <br>
+        <code>💻 compilation_distribution.sys</code>
+      </td>
+    </tr>
+
+    <tr>
+      <!-- Contribution Streak -->
+      <td width="50%" valign="top" align="center">
+        <img
+          src="https://streak-stats.demolab.com?user=mebune24&theme=tokyonight&hide_border=true"
+          width="95%"
+          alt="Development Streak"
+        />
+        <br>
+        <code>🔥 deployment_uptime.log</code>
+      </td>
+
+      <!-- Achievement Matrix -->
+      <td width="50%" valign="top" align="center">
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=algolia&no-frame=true&no-bg=true&row=2&column=3"
+          width="95%"
+          alt="Achievement Matrix"
+        />
+        <br>
+        <code>🏆 achievement_matrix.db</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=tokyo-night&hide_border=true"
+    width="98%"
+    alt="Engineering Activity Graph"
+  />
   <br>
-  <code>📡 system_throughput_telemetry.io</code>
+  <code>📡 distributed_commit_network.graph</code>
 </div>
 
 ### 📈 Contribution Activity
