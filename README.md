@@ -1,81 +1,40 @@
-# @codeWithMebune
-
-**`Tech Enthusiast`**
-
-I'm a software engineer, web developer, problem solver, JS building enthusiast, and developer at [crestlancing.com] (699k subscribers).
-
-<p align="left">
-  <!-- YouTube Subscribe Badge -->
-  <a href="https://youtube.com">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://demolab.com"/>
-  </a>
-  
-  <!-- YouTube Views Badge -->
-  <a href="https://www.youtube.com/@mebune24">
-    <img alt="youtube views" title="YouTube views" src="https://demolab.com"/>
-  </a>
-  
-  <!-- X (Twitter) Badge -->
-  <a href="https://x.com">
-    <img alt="Follow on X" title="Follow me on X" src="https://githubusercontent.com"/>
-  </a>
-  
-  <!-- GitHub Followers Badge -->
-  <a href="https://github.com">
-    <img alt="followers" title="Follow me on Github" src="https://demolab.com"/>
-  </a>
-  
-  <!-- GitHub Stars Badge -->
-  <a href="https://github.com">
-    <img alt="total stars" title="Total stars on GitHub" src="https://demolab.com"/>
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=mebune%2024&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Designer%20%7C%20FiberOptics technician&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4F9CF9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Designer+%26+Photographer+%F0%9F%8E%A8;3%2B+Years+Shipping+Real+Products;Open+to+Remote+Work+%F0%9F%8C+Cameroon" alt="Typing SVG" />
 </p>
 
----
+## 📊 GitHub Stats
 
-### 🧰 Languages and Tools
+<div align="center">
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![TailwindCSS](https://shields.io)
-![Node.js](https://shields.io)
-![Express.js](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MongoDB](https://shields.io)
-![Prisma](https://shields.io)
-![Docker](https://shields.io)
-![Postman](https://shields.io)
-![GitHub](https://shields.io)
+<img src="https://github-readme-stats.vercel.app/api?username=mebune&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://streak-stats.demolab.com?user=mebune&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
 
----
+</div>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@mebune24?sub_confirmation=1)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" height="160"/>
 
-### 📊 Stats
+</div>
+<div align="center">
 
-<!-- GitHub Readme Stats Card -->
-![Your GitHub stats](https://vercel.app)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mebune&theme=tokyo-night&hide_border=true&area=true&custom_title=mebune's%20Contribution%20Activity" width="100%"/>
 
-<!-- GitHub Streak Card -->
-![GitHub Streak](https://demolab.com)
+</div>
 
----
+## 📬 Let's Work Together
 
-<details>
-  <summary><h3>👨‍💻 Mebune's Journey</h3></summary>
-  
-  I began my journey as an aspiring computer science student driven by a deep curiosity for software architecture, systems design, and core programming principles. While initially focused on full-stack web development to build independent applications, my passion pivoted toward mastering JavaScript and modern web ecosystems. Through disciplined consistency and continuous learning, I successfully transitioned those academic foundations into a professional Software Engineering career.
+<div align="center">
 
-</details>
+[![Portfolio](https://img.shields.io/badge/Portfolio-chestlyace.online-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/mebune24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/mebune-donstand-930473311)
+[![Gmail](https://img.shields.io/badge/Gmail-developerace0%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebunedonstand797@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B237%20676%20940%20247-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/237676822268)
+)
 
----
+</div>
 
-[website]: YOUR_WEBSITE_URL
-[youtube]: https://www.youtube.com/@mebune24
-[x]: https://x.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
