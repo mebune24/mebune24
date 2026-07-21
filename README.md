@@ -80,14 +80,13 @@
       <!-- Primary Core Statistics Engine -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+          src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
           width="95%"
           alt="Core Engineering Stats"
         />
         <br>
         <code>📈 core_performance_metrics.json</code>
       </td>
-
       <!-- Multi-Language Compilers & Stack Analytics -->
       <td width="50%" valign="top" align="center">
         <img
@@ -99,19 +98,17 @@
         <code>💻 compilation_distribution.sys</code>
       </td>
     </tr>
-
     <tr>
-      <!-- Contribution Streak -->
+      <!-- Contribution Streak (fixed: herokuapp.com is dead, migrated to demolab.com fork) -->
       <td width="50%" valign="top" align="center">
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=tokyonight&hide_border=true"
+          src="https://streak-stats.demolab.com/?user=mebune24&theme=tokyonight&hide_border=true"
           width="95%"
           alt="Development Streak"
         />
         <br>
         <code>🔥 deployment_uptime.log</code>
       </td>
-
       <!-- Achievement Matrix -->
       <td width="50%" valign="top" align="center">
         <img
@@ -125,9 +122,7 @@
     </tr>
   </table>
 </div>
-
 <br>
-
 <div align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=mebune24&theme=tokyo-night&hide_border=true"
