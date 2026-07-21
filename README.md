@@ -57,18 +57,18 @@
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" valign="top">
-        <img src="https://vercel.app" width="100%" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=mebune24&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="GitHub Stats"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://demolab.com" width="100%" alt="GitHub Streak"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebune24&theme=radical&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <img src="https://vercel.app" width="100%" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebune24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="100%" alt="Top Languages"/>
       </td>
       <td width="50%" valign="top">
-        <img src="https://vercel.app" width="100%" alt="GitHub Trophies"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=mebune24&theme=radical&no-frame=true&row=2&column=3" width="100%" alt="GitHub Trophies"/>
       </td>
     </tr>
   </table>
