@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5154918ee73c28bdeab548f7e118597da1fbd4f8882fdee4babe86313c5948ff/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e64394763514e3944724d306a566c4e36677a5a534a2d72656270746264474f565251666d4a597a4a424744725644754126733d3130" width="35%"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LiORiXvur46MEnQAcqn_kWN5k8jTp7Mo5m4LljrxFg&s=10" width="35%"/>
 </p>
 
 <p align="center">
